@@ -1,0 +1,2 @@
+INSERT INTO Customer(firstName,lastName,email,mobile,dateOfBirth)VALUES("Mike","Schneider","mike17sc@hotmail.com","0470104195",NOW());
+INSERT INTO Customer(firstName,lastName,email,mobile,dateOfBirth)VALUES("Fred","Dupont","fred@hotmail.com","0470104187",NOW());
